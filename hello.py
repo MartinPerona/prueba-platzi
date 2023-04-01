@@ -1,3 +1,3 @@
 print("hola desde mi maquina")
-print("que onda")
+print("qué")
 print("por finnn")
